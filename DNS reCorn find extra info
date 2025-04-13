@@ -1,0 +1,16 @@
+dns recon
+domain registrar like godaddy details
+a = ipv4
+AAAA = ipv6
+cname= multiname or subdomains
+Ns = name server
+SoA= config setting
+txt= additional reord
+mx= mail detail
+host to find all
+host -t list(a to Mx) sitedomain
+same 
+nslookup
+set type = A to mx
+sitedomain
+dig
